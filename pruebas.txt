@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+modificacion 1
+>>>>>>> parent of 4a963e2... no message
